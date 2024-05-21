@@ -1,0 +1,50 @@
+/* styles.css */
+
+div {
+    color: black;
+}
+
+
+* {
+    color: purple;
+}
+
+.alert-text {
+    color:red;
+}
+
+#title {
+    background-color: red;
+}
+
+
+.read {
+    color: white;
+    background-color: black;
+}
+
+.unread {
+    color:white;
+    background-color: black;
+}
+
+
+
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+
+.subsection.header {
+    color: red;
+}
+
+.subsection#preview {
+    color: blue;
+}
+
+.ancestor .contents {
+    /* some declarations */
+  }
